@@ -1,5 +1,5 @@
 
 spring:
   application:
-      name: Default-Configuration-check
+      name: Default-Configuration
       

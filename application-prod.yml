@@ -1,4 +1,3 @@
-
 spring:
- application:
-  name:Configuration-prod
+  application:
+      name: Prod-Configuration

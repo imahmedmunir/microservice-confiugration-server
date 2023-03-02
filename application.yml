@@ -1,5 +1,6 @@
 
-spring:
-  application:
-      name: Default-Configuration
+#spring:
+ # application:
+  #    name: Default-Configuration
       
+#if we uncomment it , the name of configuration will be taken from here where ever client is configured

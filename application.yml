@@ -1,6 +1,4 @@
-
-#spring:
- # application:
-  #    name: Default-Configuration
-      
-#if we uncomment it , the name of configuration will be taken from here where ever client is configured
+okta:
+  oauth2:
+    issuer: https://dev-47155349.okta.com/oauth2/default
+    audience: api://default       
